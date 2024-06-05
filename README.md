@@ -2,7 +2,7 @@
 
 ## Introduction
 
-I chose to work on an important problem by exploring various datasets on Kaggle, and I stumbled upon the Credit Risk Dataset.
+I chose to work on an important problem by exploring various datasets on Kaggle, and I stumbled upon the [Credit Risk Dataset](https://www.kaggle.com/datasets/laotse/credit-risk-dataset).
 
 Credit risks are commonly observed in areas of finance involving mortgages, credit cards, and other types of loans. There is always a chance that the borrower will not repay the amount. Traditionally, it refers to the risk that a lender will not receive the principal and interest due, resulting in a disruption of cash flows and increased collection costs. Therefore, properly assessing and managing credit risk can reduce the severity of a loss.
 

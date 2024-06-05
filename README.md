@@ -11,6 +11,7 @@ Credit risks are commonly observed in areas of finance involving mortgages, cred
 - Credit is the ability to borrow money or access goods or services with the understanding that it will be repaid along with interest at a later date.
 - Creditworthiness is how a lender determines the reliability of a borrower, to understand how likely they are to repay the money.
 
+
 ## Objective and Goal
 
 The objective of the project is to analyze the loan_status variable. After analyzing the data and existing correlations with loan_status, an ML algorithm will be created to determine how accurately loan_status can be predicted from the provided data.
